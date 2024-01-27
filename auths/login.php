@@ -72,7 +72,7 @@
                             <input type="password" name="password" class="form-control" id="floatingPassword" placeholder="Password">
                             <label for="floatingPassword">Password</label>
                         </div>
-                        <div class="form-text p-2">No account yet? <a href="#" class="link-custom1">Sign up</a></div>
+                        
                         
                         <input type="submit" value="Sign In" name="signInBtn" class="btn btn-custom2 my-3 w-100 text-white text-uppercase">
                     </form>
