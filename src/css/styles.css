@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'ubuntu';
+    src: url('../fonts/Ubuntu-Regular.ttf');
+}
+
+* {
+    font-family: 'ubuntu';
+}
+
+.main {
+    height: 100vh;
+}
+
+.carousel-item img {
+    filter: brightness(75%);
+}
+
+
